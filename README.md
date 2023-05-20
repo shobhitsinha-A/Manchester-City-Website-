@@ -1,3 +1,18 @@
+# About the Project 
+The Manchester City Website project is a web development endeavor focused on building a website dedicated to Manchester City Football Club. The project utilizes various libraries and technologies to create a feature-rich and visually appealing platform.
+
+For the frontend, the project incorporates libraries such as Material-UI, providing pre-designed components and a cohesive design system. Additionally, it utilizes Formik and Yup libraries for form management and validation, ensuring smooth user interactions and data integrity.
+
+To handle data storage and retrieval, the project integrates Firebase Database and Firebase Storage, enabling efficient storage and retrieval of various types of data such as match details, news articles, and media assets.
+
+To enhance the user experience, the website employs React Awesome Reveal, a library for creating stunning animations and transitions. The project also utilizes the D3-ease library to create custom animations from scratch, further enhancing the visual appeal and interactivity of the website.
+
+With these libraries and technologies, the Manchester City Website project provides a comprehensive and engaging platform for Manchester City fans. Developers interested in web development can explore the project on GitHub, contribute to its features, and leverage the integrated libraries to enhance the website's functionality and design.
+
+# Project Links 
+
+User: https://mcity-bba6b.web.app/ Admin: https://mcity-bba6b.web.app/sign_in
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
