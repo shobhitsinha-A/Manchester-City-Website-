@@ -54,4 +54,22 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Website 
+
+![Screenshot 2024-05-09 at 8 33 24 PM](https://github.com/shobhitsinha-A/Manchester-City-Website-/assets/64719272/eba3b0fb-6b81-45a1-ade7-952ab4dfd306)
+
+![Screenshot 2024-05-09 at 8 33 39 PM](https://github.com/shobhitsinha-A/Manchester-City-Website-/assets/64719272/d7dd104c-2fbb-4f3a-8884-32c87516a8c2)
+
+![Screenshot 2024-05-09 at 8 33 49 PM](https://github.com/shobhitsinha-A/Manchester-City-Website-/assets/64719272/0b0f6a15-3865-467a-b959-c645e17c734b)
+
+![Screenshot 2024-05-09 at 8 33 59 PM](https://github.com/shobhitsinha-A/Manchester-City-Website-/assets/64719272/97aaa4da-dae5-4d3a-bd05-9f30bbee20cb)
+
+![Screenshot 2024-05-09 at 8 34 13 PM](https://github.com/shobhitsinha-A/Manchester-City-Website-/assets/64719272/3eb77142-802e-40f5-ac15-0cf039a4a7d1)
+
+![Screenshot 2024-05-09 at 8 34 26 PM](https://github.com/shobhitsinha-A/Manchester-City-Website-/assets/64719272/3fd68aec-542b-4684-8463-470ad9d028d2)
+
+
+
+
+
 
